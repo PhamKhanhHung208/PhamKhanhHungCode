@@ -196,11 +196,11 @@ function AllowRunServiceBind.OnInvoke(args)
 
     CoreGui:SetCore("SendNotification", {
 
-        Title = "Script Fram Chest",
+        Title = "Mướp Mướp",
 
-        Text = "By: Tên",
+        Text = "By:Khánh Hưng",
 
-        Icon = "rbxthumb://type=Asset&id=17214886676&w=150&h=150",
+        Icon = "rbxthumb://type=Asset&id=17241269715&w=150&h=150",
 
         Duration = math.huge,
 
@@ -246,11 +246,11 @@ local CoreGui = game:GetService("StarterGui")
 
 CoreGui:SetCore("SendNotification", {
 
-    Title = "Script Fram Chest",
+    Title = "Mướp Mướp",
 
-    Text = "By: Tên",
+    Text = "By:Khánh Hưng",
 
-    Icon = "rbxthumb://type=Asset&id=17214886676&w=150&h=150",
+    Icon = "rbxthumb://type=Asset&id=17241269715&w=150&h=150",
 
     Duration = math.huge,
 
